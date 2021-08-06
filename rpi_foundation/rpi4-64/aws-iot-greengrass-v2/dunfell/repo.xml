@@ -5,7 +5,6 @@
   <remote name="oe"  fetch="git://git.openembedded.org" />
   <remote name="yp"  fetch="git://git.yoctoproject.org" />
   <remote name="aws" fetch="git://github.com/aws" />
-  <remote name="philcali" fetch="git://github.com/philcali" />
 
   <project remote="oe"
 	   revision="dunfell"
@@ -23,7 +22,7 @@
            revision="dunfell"
            name="meta-raspberrypi"
            path="meta-raspberrypi" />
-  <project remote="philcali"
+  <project remote="aws"
            revision="master-next"
            name="meta-aws"
            path="meta-aws" />

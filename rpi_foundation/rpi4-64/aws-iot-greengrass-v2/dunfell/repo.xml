@@ -23,7 +23,7 @@
            name="meta-raspberrypi"
            path="meta-raspberrypi" />
   <project remote="aws"
-           revision="master-next"
+           revision="dunfell-next"
            name="meta-aws"
            path="meta-aws" />
 </manifest>
